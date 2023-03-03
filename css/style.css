@@ -119,7 +119,10 @@ body{
 .sticky-top.navbar .navbar-brand img {
     max-height: 45px;
 }
-
+.navbar .navbar-brand .logo {
+    width: 100px;
+    height: 100px;
+}
 @media (max-width: 991.98px) {
     .sticky-top.navbar {
         position: relative;
